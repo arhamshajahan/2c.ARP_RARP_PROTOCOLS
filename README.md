@@ -1,5 +1,6 @@
-## Register No: 212222110032
+
 # EX 2c.SIMULATING ARP /RARP PROTOCOLS
+## Register No: 212222110005
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
